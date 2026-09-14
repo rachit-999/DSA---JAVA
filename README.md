@@ -7,6 +7,7 @@ My Java solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rachit-999/DSA---JAVA/tree/master/0031-next-permutation) |
+| [0118-pascals-triangle](https://github.com/rachit-999/DSA---JAVA/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,8 @@ My Java solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rachit-999/DSA---JAVA/tree/master/0836-rectangle-overlap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/rachit-999/DSA---JAVA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
