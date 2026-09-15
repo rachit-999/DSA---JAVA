@@ -9,6 +9,7 @@ My Java solutions for Data Structures and Algorithms
 | [0015-3sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rachit-999/DSA---JAVA/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/rachit-999/DSA---JAVA/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,17 @@ My Java solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0015-3sum) |
+| [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
