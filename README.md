@@ -6,11 +6,13 @@ My Java solutions for Data Structures and Algorithms
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rachit-999/DSA---JAVA/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/rachit-999/DSA---JAVA/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rachit-999/DSA---JAVA/tree/master/0031-next-permutation) |
 ## Math
 |  |
@@ -24,4 +26,8 @@ My Java solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rachit-999/DSA---JAVA/tree/master/0118-pascals-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
