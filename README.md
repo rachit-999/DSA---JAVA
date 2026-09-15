@@ -9,6 +9,7 @@ My Java solutions for Data Structures and Algorithms
 | [0015-3sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rachit-999/DSA---JAVA/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rachit-999/DSA---JAVA/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
 ## Two Pointers
@@ -17,6 +18,7 @@ My Java solutions for Data Structures and Algorithms
 | [0015-3sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rachit-999/DSA---JAVA/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +36,7 @@ My Java solutions for Data Structures and Algorithms
 | ------- |
 | [0015-3sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
