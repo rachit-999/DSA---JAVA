@@ -9,6 +9,7 @@ My Java solutions for Data Structures and Algorithms
 | [0015-3sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rachit-999/DSA---JAVA/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/rachit-999/DSA---JAVA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rachit-999/DSA---JAVA/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
@@ -36,6 +37,7 @@ My Java solutions for Data Structures and Algorithms
 | ------- |
 | [0015-3sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/rachit-999/DSA---JAVA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
 ## Hash Table
@@ -50,4 +52,8 @@ My Java solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/rachit-999/DSA---JAVA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
