@@ -14,6 +14,7 @@ My Java solutions for Data Structures and Algorithms
 | [0118-pascals-triangle](https://github.com/rachit-999/DSA---JAVA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/rachit-999/DSA---JAVA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
+| [0704-binary-search](https://github.com/rachit-999/DSA---JAVA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,8 @@ My Java solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rachit-999/DSA---JAVA/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/rachit-999/DSA---JAVA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
