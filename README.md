@@ -9,6 +9,7 @@ My Java solutions for Data Structures and Algorithms
 | [0015-3sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rachit-999/DSA---JAVA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rachit-999/DSA---JAVA/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rachit-999/DSA---JAVA/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/rachit-999/DSA---JAVA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0088-merge-sorted-array) |
@@ -63,6 +64,7 @@ My Java solutions for Data Structures and Algorithms
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rachit-999/DSA---JAVA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/rachit-999/DSA---JAVA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
