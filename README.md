@@ -20,6 +20,7 @@ My Java solutions for Data Structures and Algorithms
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rachit-999/DSA---JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rachit-999/DSA---JAVA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ My Java solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/rachit-999/DSA---JAVA/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/rachit-999/DSA---JAVA/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
 | ------- |
@@ -81,4 +83,8 @@ My Java solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rachit-999/DSA---JAVA/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rachit-999/DSA---JAVA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
