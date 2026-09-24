@@ -22,6 +22,7 @@ My Java solutions for Data Structures and Algorithms
 | [0540-single-element-in-a-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rachit-999/DSA---JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rachit-999/DSA---JAVA/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rachit-999/DSA---JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ My Java solutions for Data Structures and Algorithms
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rachit-999/DSA---JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rachit-999/DSA---JAVA/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/rachit-999/DSA---JAVA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Newton's Method
 |  |
 | ------- |
