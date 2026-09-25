@@ -89,4 +89,12 @@ My Java solutions for Data Structures and Algorithms
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rachit-999/DSA---JAVA/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rachit-999/DSA---JAVA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rachit-999/DSA---JAVA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
